@@ -1,7 +1,7 @@
 import time
 import argparse
-from src.gateway import EdgeGateway
-from src.device_sim import SensorSimulator
+from gateway import EdgeGateway
+from device_sim import SensorSimulator
 
 def main():
     parser = argparse.ArgumentParser(description="IoT Edge Gateway Simulator")
