@@ -1,5 +1,7 @@
 # Edge Computing Iot Gateway
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Edge IoT gateway with Go & Python — deploy at the edge, connect anywhere.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
